@@ -1,6 +1,6 @@
 ## Exoplanet Service
 
-This is a Golang microservice for managing exoplanet data using the Gin framework. It provides functionality for adding, listing, retrieving, updating, and deleting exoplanets. The service also includes validation for exoplanet data, unit tests, and sorting/filtering options.
+This is a Golang microservice for managing exoplanet data using the Gin framework. It provides functionality for adding, listing, retrieving, updating, and deleting exoplanets. 
 
 ## Features
 
